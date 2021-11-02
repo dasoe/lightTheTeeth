@@ -1,4 +1,9 @@
 .vs/
 obj/
 addons/
-bin/
+bin/*.dll
+bin/*.exe
+bin/*.ilk
+bin/*.exp
+bin/*.lib
+bin/*.pdb

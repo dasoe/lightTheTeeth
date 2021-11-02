@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<logging>1</logging>
+<verbose>0</verbose>
+<logToFile>0</logToFile>
+<position0>
+	<x>100</x>
+	<y>20</y>
+</position0>
+<position1>
+	<x>200</x>
+	<y>20</y>
+</position1>
+<position2>
+	<x>300</x>
+	<y>80</y>
+</position2>
+<position3>
+	<x>400</x>
+	<y>20</y>
+</position3>
+<position4>
+	<x>500</x>
+	<y>20</y>
+</position4>
+<position5>
+	<x>600</x>
+	<y>20</y>
+</position5>
+<position6>
+	<x>700</x>
+	<y>20</y>
+</position6>
